@@ -1,0 +1,30 @@
+html {
+    color: #171717;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 12px;
+    background-image: url(jpg/bg.png);
+}
+
+#reach-out {
+    width: fit-content;
+    padding: 6px;
+    border: 2px solid red
+}
+
+#reach-out {
+    color: black;
+}
+
+p {
+    font-size: 24px;
+}
+
+#credit {
+    font-size: 18px;
+}
+
+#logo {
+    margin-top: -32px;
+    margin-bottom: -32px;
+    width: 20rem;
+}
