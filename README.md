@@ -1,2 +1,4 @@
-# Welcome to The J.P. Legacy Organization
-## We are a team of closely connected individuals documenting historical and biographical information about Jody Parsley for the purpose of preservation. It is our intention that any information is accurately portrayed as is, without any personal bias or reinterpretation.
+# Welcome to The J.P. Legacy Organization!
+## The J.P. Legacy Organization is an archival project dedicated to the life of Jody Parsley. Our mission is to build a digital museum to preserve Jody’s life story, music, and historical documentation.
+[legacy@jodyparsley.or](legacy@jodyparsley.org)
+
