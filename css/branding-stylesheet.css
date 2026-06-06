@@ -1,0 +1,38 @@
+#brought-to-you-by-message {
+    padding: 6px;
+    text-shadow: 0px 0px 6px white;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#about-page-link {
+    text-shadow: 0px 0px 6px black;
+    text-decoration: none; 
+    color: white;
+}
+
+#record-logo-icon, #record-logo-wordmark img {
+    box-shadow: none; 
+    border: none; 
+}
+
+#record-logo-icon {
+    width: 24px;
+    filter: drop-shadow(0px 0px 2px white);
+}
+
+#record-logo-wordmark img {
+    width: 250px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+line {
+    border-bottom: 1px solid red;
+}
+
+abbr {
+    text-decoration: none;
+}
