@@ -1,3 +1,7 @@
+abbr {
+    text-decoration: none;
+}
+
 #brought-to-you-by-message {
     padding: 6px;
     text-shadow: 0px 0px 6px white;
